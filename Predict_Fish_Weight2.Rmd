@@ -1,6 +1,6 @@
 ---
 title: "Weight of Fish"
-author: "Your Name"
+author: "Jared Lobitana"
 date: "`r Sys.Date()`"  
 output: 
   html_document:
@@ -48,6 +48,8 @@ results = data.frame(
 print(results)
 
 ```
+
+The best two variables to predict weight are height and width.
 
 
 ### Best Two regressor model
